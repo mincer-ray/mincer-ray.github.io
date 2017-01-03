@@ -54,6 +54,10 @@
 	width: 100%;
 }
 
+#devicon {
+  font-size: 6em;
+}
+
 /* Box Model */
 
 	*, *:before, *:after {
