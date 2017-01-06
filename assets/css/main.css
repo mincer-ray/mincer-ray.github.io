@@ -50,12 +50,31 @@
 
 /* Custom */
 
+.group {
+	content: "";
+	clear: both;
+	display: block;
+}
+
+.hide {
+	visibility: hidden;
+}
+
 .mypic {
 	width: 100%;
 }
 
-#devicon {
-  font-size: 6em;
+.skills {
+	width: 720px;
+	display: block;
+	margin: auto;
+}
+
+.devicon {
+	padding: 10px;
+	float: left;
+	display: block;
+	width: 120px;
 }
 
 /* Box Model */
